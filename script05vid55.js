@@ -62,3 +62,6 @@ console.log(o);
 
 o.salary = 12000;
 console.log(o);
+
+// tomorrows target 56 to 60 
+// and saturday clone netflix 
