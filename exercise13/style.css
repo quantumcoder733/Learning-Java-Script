@@ -1,0 +1,31 @@
+body{
+    background:#111;
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width:1000px;
+    margin:auto;
+}
+
+.card{
+    display:flex;
+    margin:20px 0;
+    background:#222;
+    padding:10px;
+    border-radius:8px;
+}
+
+.card img{
+    width:200px;
+    border-radius:8px;
+}
+
+.info{
+    margin-left:20px;
+}
+
+.meta{
+    color:gray;
+}

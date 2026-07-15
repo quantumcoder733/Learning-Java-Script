@@ -55,3 +55,10 @@ const func1 =(x)=>{
 func1(34)
 func1(355)
 func1(766)
+
+// continue from video 60
+
+//continue from video 63 arrays
+// done on 10-03-2026
+
+// continue with video 64
